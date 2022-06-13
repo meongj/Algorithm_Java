@@ -1,7 +1,6 @@
 package PG.Level1;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class PG77484_lotto {
 

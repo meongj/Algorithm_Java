@@ -1,7 +1,5 @@
 package PG.Level1;
 
-import java.util.Locale;
-
 public class PG72410_NewID {
 
     public String solution(String input){
