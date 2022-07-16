@@ -1,7 +1,7 @@
 package BOJ.DP;
 
 import java.util.Scanner;
-
+//https://www.acmicpc.net/problem/15990
 public class Boj15990_123더하기5 {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
