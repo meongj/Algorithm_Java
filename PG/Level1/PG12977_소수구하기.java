@@ -1,5 +1,5 @@
 package PG.Level1;
-
+// https://school.programmers.co.kr/learn/courses/30/lessons/12977
 public class PG12977_소수구하기 {
 
     public int solution(int[] nums) {
