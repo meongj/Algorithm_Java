@@ -1,5 +1,5 @@
 package BOJ.BruteForce;
-
+// https://www.acmicpc.net/problem/1476
 import java.util.Scanner;
 
 public class Boj1476_날짜계산 {
