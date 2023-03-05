@@ -28,7 +28,7 @@ public class B1_2_17_문자열내_부분문자열_빈도수세기 {
 
     public static void main(String[] args) {
         B1_2_17_문자열내_부분문자열_빈도수세기 t = new B1_2_17_문자열내_부분문자열_빈도수세기();
-        String str = "abcaaaabcbbbbabcccccccccc";
+        String str = "사abcaaaabcbbbbabcccccccccc";
         System.out.println(t.countStringInString(str, "abc"));
         System.out.println(t.countStringInString02(str, "abc"));
     }
